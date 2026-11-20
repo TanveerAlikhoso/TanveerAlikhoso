@@ -19,7 +19,7 @@
 | [#me](#me) | [#tools](#tools) | [#skills](#skills) | [#pricing](#pricing) | [#contact](#contact) |
 
 💬 **Try the real chatbot site →** [tanveeralikhoso.github.io](https://tanveeralikhoso.github.io/)
-💬 **Ask me anything…** — start with one of the chips above, or try the live lab: [pixametry-lab.vercel.app](https://pixametry-lab.vercel.app)
+💬 **Ask me anything…** — start with one of the chips above, or try the live lab: [pixametry-lab.vercel.app](https://www.pixametrylab.uk)
 
 </div>
 
